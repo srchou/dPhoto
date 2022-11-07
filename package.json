@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/srchou/dPhoto/issues"
   },
-  "homepage": "https://github.com/srchou/dPhoto#readme"
+  "homepage": "https://github.com/srchou/dPhoto#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
