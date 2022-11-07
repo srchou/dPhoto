@@ -1,22 +1,5 @@
 {
-  "name": "dphoto",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/srchou/dPhoto.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/srchou/dPhoto/issues"
-  },
-  "homepage": "https://github.com/srchou/dPhoto#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "vue": "^3.2.41"
   }
 }
